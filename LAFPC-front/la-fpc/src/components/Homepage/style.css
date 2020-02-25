@@ -1,0 +1,30 @@
+button {
+    border: red 2px solid;
+    border: 1px solid black;
+    display: inline;
+    align-items: center;
+    justify-content: center;
+}
+
+div.cardpage {
+    border: red 2px solid;
+}
+
+.Homepage {
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box {
+  border: 1px solid black;
+  display: inline;
+  align-items: center;
+  justify-content: center;
+}
+
+.sample{
+    width: 250px;
+    height:40vh;
+}
